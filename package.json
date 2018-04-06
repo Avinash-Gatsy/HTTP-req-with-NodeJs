@@ -1,0 +1,18 @@
+{
+  "name": "making-http-requests-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Avinash",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "node-fetch": "^2.1.2",
+    "r2": "^2.0.1",
+    "request": "^2.85.0"
+  }
+}
